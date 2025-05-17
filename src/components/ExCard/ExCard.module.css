@@ -1,0 +1,12 @@
+.ExCard{
+    background: linear-gradient(135deg, #FF007F, #007FFF);
+    height: 220px;
+    border-radius: 20px;
+    padding: 64px 37px;
+}
+
+.ExCardP{
+    width: 350px;
+    padding-top: 20px;
+    line-height: 150%;
+}
